@@ -1,6 +1,6 @@
-# TMDB Movie Poster Generator
+# TMDB Movie Wallpaper Generator
 
-A modern Python script that generates beautiful movie and TV show posters using data from The Movie Database (TMDB) and OMDB APIs. Creates high-quality poster images with backdrop images, logos, cast information, ratings, and more.
+A modern Python script that generates beautiful movie and TV show wallpapers using data from The Movie Database (TMDB) and OMDB APIs. Creates high-quality poster images with backdrop images, logos, cast information, ratings, and more.
 
 ## 🎬 Features
 
