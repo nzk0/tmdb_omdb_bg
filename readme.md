@@ -13,7 +13,7 @@ A modern Python script that generates beautiful movie and TV show posters using 
 - **Smart Logo Handling**: Automatically downloads and resizes official logos, with text fallback
 - **Customizable Filtering**: Exclude content by country, genre, or keywords
 - **Fuzzy Matching**: Intelligent title matching for better rating accuracy
-- **High-Quality Output**: Optimized JPEG images ready for Reddit, ProjectiVy, or other platforms
+- **High-Quality Output**: Optimized JPEG images ready for Android TV, other TV operating systems, and various media applications
 
 ## 🖼️ Sample Output
 
@@ -122,9 +122,10 @@ Modify these settings in the script:
 ## 📁 Output
 
 Generated posters are saved as high-quality JPEG files in the `tmdb_backgrounds/` folder with optimizations for:
-- Reddit posting
-- ProjectiVy Android TV backgrounds
-- General media server use
+- Android TV backgrounds
+- Other TV operating systems
+- Media server applications
+- Digital displays and kiosks
 
 ## 🛠️ Requirements
 
