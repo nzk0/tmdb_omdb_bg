@@ -22,6 +22,8 @@ A modern Python script that generates beautiful movie and TV show posters using 
 ![The_Sopranos](https://github.com/user-attachments/assets/48b0fe12-699f-4d24-bd0e-9b8d200170e7)
 ![The_Dark_Knight](https://github.com/user-attachments/assets/25aa9bcf-5e8d-4316-b343-fce5b9b6ee1b)
 
+More available here: [TMDB Wallpapers Subreddit](https://www.reddit.com/r/tmdbwallpapers/)
+
 ## 🚀 Installation
 
 1. **Clone the repository**
