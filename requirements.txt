@@ -1,0 +1,8 @@
+# TMDB Movie Poster Generator Requirements
+# Install with: pip install -r requirements.txt
+
+# HTTP client for async API requests
+aiohttp>=3.8.0
+
+# Image processing library
+Pillow>=9.0.0
