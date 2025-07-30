@@ -17,14 +17,10 @@ A modern Python script that generates beautiful movie and TV show posters using 
 
 ## 🖼️ Sample Output
 
-The script generates poster images with:
-- Movie/TV show backdrop as background
-- Official logo or title text overlay
-- Cast and crew information with emoji icons
-- Rating badges (Rotten Tomatoes, Metacritic, or TMDB)
-- Genre, year, and runtime/season information
-- Plot synopsis
-- Professional layout and typography
+![Seven_Samurai](https://github.com/user-attachments/assets/cbaf6eb6-efe6-4763-8ace-a5f0801c5666)
+![Parasite](https://github.com/user-attachments/assets/4ed7e18b-74d1-44b2-a810-83d163410567)
+![The_Sopranos](https://github.com/user-attachments/assets/48b0fe12-699f-4d24-bd0e-9b8d200170e7)
+![The_Dark_Knight](https://github.com/user-attachments/assets/25aa9bcf-5e8d-4316-b343-fce5b9b6ee1b)
 
 ## 🚀 Installation
 
